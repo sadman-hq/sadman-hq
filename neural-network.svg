@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 240">
+<defs><radialGradient id="g"><stop offset="0" stop-color="#fff"/><stop offset=".45" stop-color="#58a6ff"/><stop offset="1" stop-color="#1f6feb" stop-opacity="0"/></radialGradient></defs>
+<rect width="860" height="240" rx="14" fill="#0d1117"/>
+<g stroke="#1f6feb" stroke-width="1" opacity=".25"><animate attributeName="opacity" values=".15;.4;.15" dur="4s" repeatCount="indefinite"/>
+<line x1="130" y1="48" x2="330" y2="34"/><line x1="130" y1="48" x2="330" y2="69"/><line x1="130" y1="48" x2="330" y2="103"/><line x1="130" y1="48" x2="330" y2="137"/><line x1="130" y1="48" x2="330" y2="171"/><line x1="130" y1="48" x2="330" y2="206"/>
+<line x1="130" y1="96" x2="330" y2="34"/><line x1="130" y1="96" x2="330" y2="69"/><line x1="130" y1="96" x2="330" y2="103"/><line x1="130" y1="96" x2="330" y2="137"/><line x1="130" y1="96" x2="330" y2="171"/><line x1="130" y1="96" x2="330" y2="206"/>
+<line x1="130" y1="144" x2="330" y2="34"/><line x1="130" y1="144" x2="330" y2="69"/><line x1="130" y1="144" x2="330" y2="103"/><line x1="130" y1="144" x2="330" y2="137"/><line x1="130" y1="144" x2="330" y2="171"/><line x1="130" y1="144" x2="330" y2="206"/>
+<line x1="130" y1="192" x2="330" y2="34"/><line x1="130" y1="192" x2="330" y2="69"/><line x1="130" y1="192" x2="330" y2="103"/><line x1="130" y1="192" x2="330" y2="137"/><line x1="130" y1="192" x2="330" y2="171"/><line x1="130" y1="192" x2="330" y2="206"/>
+<line x1="330" y1="34" x2="530" y2="34"/><line x1="330" y1="34" x2="530" y2="69"/><line x1="330" y1="34" x2="530" y2="103"/><line x1="330" y1="34" x2="530" y2="137"/><line x1="330" y1="34" x2="530" y2="171"/><line x1="330" y1="34" x2="530" y2="206"/>
+<line x1="330" y1="69" x2="530" y2="34"/><line x1="330" y1="69" x2="530" y2="69"/><line x1="330" y1="69" x2="530" y2="103"/><line x1="330" y1="69" x2="530" y2="137"/><line x1="330" y1="69" x2="530" y2="171"/><line x1="330" y1="69" x2="530" y2="206"/>
+<line x1="330" y1="103" x2="530" y2="34"/><line x1="330" y1="103" x2="530" y2="69"/><line x1="330" y1="103" x2="530" y2="103"/><line x1="330" y1="103" x2="530" y2="137"/><line x1="330" y1="103" x2="530" y2="171"/><line x1="330" y1="103" x2="530" y2="206"/>
+<line x1="330" y1="137" x2="530" y2="34"/><line x1="330" y1="137" x2="530" y2="69"/><line x1="330" y1="137" x2="530" y2="103"/><line x1="330" y1="137" x2="530" y2="137"/><line x1="330" y1="137" x2="530" y2="171"/><line x1="330" y1="137" x2="530" y2="206"/>
+<line x1="330" y1="171" x2="530" y2="34"/><line x1="330" y1="171" x2="530" y2="69"/><line x1="330" y1="171" x2="530" y2="103"/><line x1="330" y1="171" x2="530" y2="137"/><line x1="330" y1="171" x2="530" y2="171"/><line x1="330" y1="171" x2="530" y2="206"/>
+<line x1="330" y1="206" x2="530" y2="34"/><line x1="330" y1="206" x2="530" y2="69"/><line x1="330" y1="206" x2="530" y2="103"/><line x1="330" y1="206" x2="530" y2="137"/><line x1="330" y1="206" x2="530" y2="171"/><line x1="330" y1="206" x2="530" y2="206"/>
+<line x1="530" y1="34" x2="730" y2="60"/><line x1="530" y1="34" x2="730" y2="120"/><line x1="530" y1="34" x2="730" y2="180"/>
+<line x1="530" y1="69" x2="730" y2="60"/><line x1="530" y1="69" x2="730" y2="120"/><line x1="530" y1="69" x2="730" y2="180"/>
+<line x1="530" y1="103" x2="730" y2="60"/><line x1="530" y1="103" x2="730" y2="120"/><line x1="530" y1="103" x2="730" y2="180"/>
+<line x1="530" y1="137" x2="730" y2="60"/><line x1="530" y1="137" x2="730" y2="120"/><line x1="530" y1="137" x2="730" y2="180"/>
+<line x1="530" y1="171" x2="730" y2="60"/><line x1="530" y1="171" x2="730" y2="120"/><line x1="530" y1="171" x2="730" y2="180"/>
+<line x1="530" y1="206" x2="730" y2="60"/><line x1="530" y1="206" x2="730" y2="120"/><line x1="530" y1="206" x2="730" y2="180"/>
+</g>
+<circle r="6" fill="url(#g)"><animateMotion dur="3.6s" begin="0.0s" repeatCount="indefinite" path="M130 144L330 69L530 137L730 180"/></circle>
+<circle r="6" fill="url(#g)"><animateMotion dur="3.6s" begin="0.3s" repeatCount="indefinite" path="M130 48L330 34L530 171L730 60"/></circle>
+<circle r="6" fill="url(#g)"><animateMotion dur="3.6s" begin="0.6s" repeatCount="indefinite" path="M130 144L330 171L530 34L730 180"/></circle>
+<circle r="6" fill="url(#g)"><animateMotion dur="3.6s" begin="0.9s" repeatCount="indefinite" path="M130 96L330 34L530 34L730 120"/></circle>
+<circle r="6" fill="url(#g)"><animateMotion dur="3.6s" begin="1.2s" repeatCount="indefinite" path="M130 192L330 34L530 69L730 60"/></circle>
+<circle r="6" fill="url(#g)"><animateMotion dur="3.6s" begin="1.5s" repeatCount="indefinite" path="M130 192L330 34L530 171L730 60"/></circle>
+<circle r="6" fill="url(#g)"><animateMotion dur="3.6s" begin="1.8s" repeatCount="indefinite" path="M130 96L330 206L530 206L730 180"/></circle>
+<circle r="6" fill="url(#g)"><animateMotion dur="3.6s" begin="2.1s" repeatCount="indefinite" path="M130 48L330 171L530 171L730 120"/></circle>
+<circle r="6" fill="url(#g)"><animateMotion dur="3.6s" begin="2.4s" repeatCount="indefinite" path="M130 48L330 69L530 34L730 180"/></circle>
+<circle r="6" fill="url(#g)"><animateMotion dur="3.6s" begin="2.7s" repeatCount="indefinite" path="M130 96L330 103L530 137L730 60"/></circle>
+<circle r="6" fill="url(#g)"><animateMotion dur="3.6s" begin="3.0s" repeatCount="indefinite" path="M130 48L330 171L530 103L730 180"/></circle>
+<circle r="6" fill="url(#g)"><animateMotion dur="3.6s" begin="3.3s" repeatCount="indefinite" path="M130 96L330 34L530 171L730 180"/></circle>
+<g fill="#0d1117" stroke="#58a6ff" stroke-width="2">
+<circle cx="130" cy="48" r="11"/><circle cx="130" cy="96" r="11"/><circle cx="130" cy="144" r="11"/><circle cx="130" cy="192" r="11"/>
+<circle cx="330" cy="34" r="11"/><circle cx="330" cy="69" r="11"/><circle cx="330" cy="103" r="11"/><circle cx="330" cy="137" r="11"/><circle cx="330" cy="171" r="11"/><circle cx="330" cy="206" r="11"/>
+<circle cx="530" cy="34" r="11"/><circle cx="530" cy="69" r="11"/><circle cx="530" cy="103" r="11"/><circle cx="530" cy="137" r="11"/><circle cx="530" cy="171" r="11"/><circle cx="530" cy="206" r="11"/>
+<circle cx="730" cy="60" r="11"/><circle cx="730" cy="120" r="11"/><circle cx="730" cy="180" r="11"/>
+</g>
+<g fill="#58a6ff"><animate attributeName="opacity" values=".35;1;.35" dur="3.6s" begin="0.0s" repeatCount="indefinite"/>
+<circle cx="130" cy="48" r="5"/><circle cx="130" cy="96" r="5"/><circle cx="130" cy="144" r="5"/><circle cx="130" cy="192" r="5"/>
+</g>
+<g fill="#58a6ff"><animate attributeName="opacity" values=".35;1;.35" dur="3.6s" begin="0.9s" repeatCount="indefinite"/>
+<circle cx="330" cy="34" r="5"/><circle cx="330" cy="69" r="5"/><circle cx="330" cy="103" r="5"/><circle cx="330" cy="137" r="5"/><circle cx="330" cy="171" r="5"/><circle cx="330" cy="206" r="5"/>
+</g>
+<g fill="#58a6ff"><animate attributeName="opacity" values=".35;1;.35" dur="3.6s" begin="1.8s" repeatCount="indefinite"/>
+<circle cx="530" cy="34" r="5"/><circle cx="530" cy="69" r="5"/><circle cx="530" cy="103" r="5"/><circle cx="530" cy="137" r="5"/><circle cx="530" cy="171" r="5"/><circle cx="530" cy="206" r="5"/>
+</g>
+<g fill="#58a6ff"><animate attributeName="opacity" values=".35;1;.35" dur="3.6s" begin="2.7s" repeatCount="indefinite"/>
+<circle cx="730" cy="60" r="5"/><circle cx="730" cy="120" r="5"/><circle cx="730" cy="180" r="5"/>
+</g>
+</svg>

@@ -6,6 +6,10 @@
 
 <br/>
 
+<img src="./neural-network.svg" width="100%" alt="Neural Network Animation"/>
+
+<br/>
+
 <img src="https://komarev.com/ghpvc/?username=sadman-adib&style=flat-square&color=1f6feb&label=Profile+Views" alt="profile views"/>
 <img src="https://img.shields.io/badge/Role-AI%20Research%20Engineer-58A6FF?style=flat-square" alt="role"/>
 <img src="https://img.shields.io/badge/Based%20in-Dhaka%2C%20Bangladesh-006A4E?style=flat-square" alt="location"/>
@@ -36,12 +40,12 @@ I work where machine reasoning, interpretability and practical engineering meet.
 <tr>
 <td width="50%" valign="top">
 
-** Computer Vision**
+**👁️ Computer Vision**
 - Object detection & recognition
 - Real-world dataset curation
 - Efficient models for edge devices
 
-** Language & Multimodal AI**
+**💬 Language & Multimodal AI**
 - Large Language Models (LLMs)
 - Vision-Language Models (VLMs)
 - Retrieval-Augmented Generation (RAG)
@@ -49,12 +53,12 @@ I work where machine reasoning, interpretability and practical engineering meet.
 </td>
 <td width="50%" valign="top">
 
-** Reasoning & Interpretability**
+**🧩 Reasoning & Interpretability**
 - How models reason and decide
 - Making AI systems understandable
 - Trustworthy, reliable AI
 
-** Edge AI & IoT**
+**⚡ Edge AI & IoT**
 - Energy-aware on-device inference
 - Embedded & intelligent systems
 - AI for real-world impact
@@ -65,7 +69,7 @@ I work where machine reasoning, interpretability and practical engineering meet.
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <div align="center">
 
@@ -81,18 +85,6 @@ I work where machine reasoning, interpretability and practical engineering meet.
 
 **Hardware & Tools**<br/>
 <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux,ubuntu,git,github,vscode&theme=dark" alt="tools"/>
-
-</div>
-
----
-
-### GitHub Activity
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=sadman-adib&theme=github-dark-blue&hide_border=true&background=0d1117" width="60%" alt="streak"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sadman-adib&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true" width="100%" alt="activity graph"/>
 
 </div>
 
